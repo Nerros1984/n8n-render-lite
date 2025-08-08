@@ -2,10 +2,10 @@
   "name": "n8n-render-lite",
   "version": "1.0.0",
   "scripts": {
-    "start": "n8n"
+    "start": "npx n8n"
   },
   "dependencies": {
-    "n8n": "latest"
+    "n8n": "^1.45.0"
   },
   "engines": {
     "node": ">=18"
